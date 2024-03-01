@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Dessert Clicker</string>
+    <string name="lorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</string>
+    <string name="title">Lorem Ipsum</string>
+    <string name="button_text">Default Button</string>
+    <string name="Menu">Menu</string>
+    <string name="Share">Share</string>
+    <string name="TopBarTitle">Dessert Clicker</string>
+    <string name="ShitNotAvailable">Share Not available!</string>
+    <string name="share_text">Share Testing</string>
+</resources>
